@@ -12,3 +12,9 @@ This repository showcases an interactive Tableau dashboard crafted to explore Ai
 - Bedroom Listings Count: Displays the distribution of listings by the number of bedrooms.
 - Revenue Trends: Tracks revenue progression throughout the year.
 
+## Tools Used
+- Tableau for data visualization and analysis.
+
+## Airbnb Analysis Insights Dashboard
+![image alt](https://github.com/ArunRoshan123/Virat-Kohli-Performance-Insights-Dashboard/blob/90c557d52a8da6f0871096e96ccec572492e65da/Dashboard)
+
