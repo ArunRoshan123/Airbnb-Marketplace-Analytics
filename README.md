@@ -16,5 +16,9 @@ This repository showcases an interactive Tableau dashboard crafted to explore Ai
 - Tableau for data visualization and analysis.
 
 ## Airbnb Analysis Insights Dashboard
-![image alt](https://github.com/ArunRoshan123/Virat-Kohli-Performance-Insights-Dashboard/blob/90c557d52a8da6f0871096e96ccec572492e65da/Dashboard)
+![image alt](https://github.com/ArunRoshan123/Airbnb-Marketplace-Analytics/blob/06c206bb5b4b9064bd2571bdc6e6d9db14aed79e/Screenshot%202025-02-25%20150629.png)
 
+## How to Use
+- Download the Dashboard by clicking <a href="https://github.com/ArunRoshan123/Airbnb-Marketplace-Analytics/blob/06c206bb5b4b9064bd2571bdc6e6d9db14aed79e/AirBnB%20Full%20Project.twb">here.</a>
+- Open the file in Tableau.
+- Explore and interact with the dashboard to dive deeper into Airbnb Marketplace Analytics.
